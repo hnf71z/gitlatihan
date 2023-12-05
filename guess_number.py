@@ -1,3 +1,7 @@
+# Dibuat oleh Hanif Abdusy Syakur
+# NIM 4.33.23.1.09
+# Tugas Jobsheet 13
+
 def guess_number():
     secret_number = 9
     guess = 0
