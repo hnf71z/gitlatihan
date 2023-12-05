@@ -1,4 +1,4 @@
-# Praktikum Dasaar Pemrograman Kelas TI 1B
+# Praktikum Dasar Pemrograman Kelas TI 1B
 Created by Hanif
 
 Politeknik Negeri Semarang
